@@ -1,6 +1,7 @@
 # K-Means-and-Fuzzy-C-Means-Clustering
 K-Means and Fuzzy C-Means Clustering
 
+* Requirements
 * Python version 3.10 or higher
 * Jupyter Notebook
 
