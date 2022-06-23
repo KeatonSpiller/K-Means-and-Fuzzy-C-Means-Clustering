@@ -4,7 +4,7 @@ K-Means and Fuzzy C-Means Clustering
 * Python version 3.10 or higher
 * Jupyter Notebook
 
-# k means clustering
+# K Means clustering
 1. load in the cluster data set txt file
 
 2. Change the hyper parameters
@@ -16,7 +16,7 @@ K = 3 # How many cluster's
 
 4. Visualize the K-Means plot
 
-# fuzzy c means clustering
+# Fuzzy C Means clustering
 
 1. Load or Use the previous cluster data set txt file from K-Means
 
